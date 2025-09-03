@@ -14,8 +14,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue)  
 ![REST](https://img.shields.io/badge/REST-API-red)  ![JPA](https://img.shields.io/badge/JPA-2.2-red)  
 ![Gradle](https://img.shields.io/badge/Gradle-8.0-green)  ![Docker](https://img.shields.io/badge/Docker-24.0-green)  
-![JUnit](https://img.shields.io/badge/JUnit-5.9-purple)  ![Mockito](https://img.shields.io/badge/Mockito-4.8-purple)  ![TDD](https://img.shields.io/badge/TDD-Test_Driven_Development-purple)  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2023.1-blueviolet)  
+![JUnit](https://img.shields.io/badge/JUnit-5.9-purple)  ![Mockito](https://img.shields.io/badge/Mockito-4.8-purple)  ![TDD](https://img.shields.io/badge/TDD-Test_Driven_Development-purple)  
 
 ---
 
