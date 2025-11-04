@@ -8,14 +8,15 @@
 
 ## 🛠️ Пользуюсь технологиями
 
-![Java](https://img.shields.io/badge/Java-17-orange)  ![OOP](https://img.shields.io/badge/OOP-Principles-orange)  
-![Spring](https://img.shields.io/badge/Spring_Framework-5.3-emerald)  ![Hibernate](https://img.shields.io/badge/Hibernate-5.6-emerald)  
-![Git](https://img.shields.io/badge/Git-2.40-white)    
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue)  
-![REST](https://img.shields.io/badge/REST-API-red)  ![JPA](https://img.shields.io/badge/JPA-2.2-red)  
-![Gradle](https://img.shields.io/badge/Gradle-8.0-green)  ![Docker](https://img.shields.io/badge/Docker-24.0-green)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2023.1-blueviolet)  
-![JUnit](https://img.shields.io/badge/JUnit-5.9-purple)  ![Mockito](https://img.shields.io/badge/Mockito-4.8-purple)  ![TDD](https://img.shields.io/badge/TDD-Test_Driven_Development-purple)  
+![Git](https://img.shields.io/badge/Git-white)    
+![Java](https://img.shields.io/badge/Java-orange)  ![OOP](https://img.shields.io/badge/OOP-orange)   
+![REST](https://img.shields.io/badge/REST-red)  ![JPA](https://img.shields.io/badge/JPA-red)  
+![Spring](https://img.shields.io/badge/Spring-emerald)  ![Hibernate](https://img.shields.io/badge/Hibernate-emerald)   
+![Gradle](https://img.shields.io/badge/Gradle-green)  ![Docker](https://img.shields.io/badge/Docker-green)  
+![SQL](https://img.shields.io/badge/SQL-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-blueviolet)  
+![TDD](https://img.shields.io/badge/TDD-purple) ![JUnit](https://img.shields.io/badge/JUnit-purple) ![AssertJ](https://img.shields.io/badge/AssertJ-purple) ![Mockito](https://img.shields.io/badge/Mockito-purple)   
+![TDD](https://img.shields.io/badge/SPA-darkblue) ![Inertia4J](https://img.shields.io/badge/Inertia4J-darkblue)
 
 ---
 
